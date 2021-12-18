@@ -1,1 +1,2 @@
 Hello. Added text to file.txt
+New information on master branch
