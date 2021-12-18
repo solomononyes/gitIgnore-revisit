@@ -1,2 +1,3 @@
 Hello. Added text to file.txt
+I aslo modify the text on github
 New information on master branch
